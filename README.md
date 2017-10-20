@@ -1,2 +1,3 @@
-# AwaazWrkshp2k17
-This repo is meant for submitting assignments as a part of the Awaaz Summer Workshop
+# New Website
+New Portfolio Website built using the [Beautiful Jekyll Theme](http://deanattali.com/beautiful-jekyll/). 
+Site is hosted [here](https://rakeshbal.github.io/New-Website) 
