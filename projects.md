@@ -10,11 +10,10 @@ subtitle: "This is where you know what I tinker around with."
 
 *   #### Object Detection
 
-    ##### CA-CFAR
+    ##### Mission-Planner
 
-    *   Incorporated Cell Averaging CFAR Algorithm to detect Buoy and Marker
-    *   Used ROS to take data from the bag files
-    *   Used OpenCV to implement the algorithm
+    *   Implemented Mission Planner in ROS to perform actions and take decisions
+    *   Used Actionlib and Smach Packages of ROS to implement Mission Planner
 
     ##### HSV Thresholding
 
