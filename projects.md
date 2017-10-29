@@ -29,8 +29,8 @@ subtitle: "This is where you know what I tinker around with."
     ##### synisto
 
     *   Wrote a python for python script for recommending movies to users based on their historical choices
-    *   Use Restricted Boltzman Machines to recontruct user's ratings
-    *   Use Matrix Factorization to predict user's rating for movies he/she hasn't seen
+    *   Used Restricted Boltzman Machines to recontruct user's ratings
+    *   Used Matrix Factorization to predict user's rating for movies he/she hasn't seen
 
 *   #### Scientific calculator Python
 
